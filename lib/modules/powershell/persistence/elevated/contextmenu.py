@@ -8,7 +8,7 @@ class Module:
         self.info = {
             'Name': 'Invoke-ContextMenuPersist',
 
-            'Author': ['@@matterpter', 'Matt Hand'],
+            'Author': ['@matterpreter', 'Matt Hand'],
 
             'Description': ('This script adds an item to the context menu that '
                             'will execute a user-supplied command by writing to '
